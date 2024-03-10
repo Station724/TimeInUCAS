@@ -1,0 +1,25 @@
+# Basic set
+site_name: TimeInUCAS
+
+
+# nav set
+nav:
+  - Home: index.md
+
+
+# theme
+theme:
+  name: mkdocs
+  highlightjs: true
+  #hljs_languages:
+  analytics:
+    gtag: G-Q705N660HX
+
+
+# toc extension
+markdown_extensions:
+  - toc:
+      permalink: "¶" # Generate permanent links at the end of each header
+      separator: "_"  # Character which replaces white-space in generated IDs
+      #baselevel: 2   # Base level for headers 
+       
