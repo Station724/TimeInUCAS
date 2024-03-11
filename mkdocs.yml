@@ -38,6 +38,7 @@ theme:
     code: Roboto Mono
   features:
     - navigation.footer
+    - content.code.copy
 
 
 #Extra
@@ -57,7 +58,6 @@ plugins:
   - git-authors
 
 
-
 # Toc Extension
 markdown_extensions:
   - toc:
@@ -66,9 +66,21 @@ markdown_extensions:
       #baselevel: 2   # Base level for headers 
 
 
-#Copyright
+# Copyright
 copyright: Copyright &copy; 2024 QingyunCai
 
-#Git Repository
+
+# Git Repository
 repo_url: https://github.com/Station724/TimeInUCAS
 repo_name: Station724/TimeInUCAS
+
+
+# Highlight
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
