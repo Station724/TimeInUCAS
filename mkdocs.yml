@@ -5,10 +5,15 @@ site_name: TimeInUCAS
 # Nav Set
 nav:
   - Home: index.md
+  - Daily: Daily.md
   - Learning:
     - Git: ./Learning/Git.md
     - MkDocs: ./Learning/MkDocs.md
     - R: ./Learning/R.md
+    - Other: ./Learning/Other.md
+  - Reading:
+    - Profiles: ./Reading/Profiles.md
+  
 
 
 # Theme
