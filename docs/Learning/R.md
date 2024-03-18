@@ -156,27 +156,95 @@ print(x)
 ## 5. Loops
 
 ```R
+# Repeat Loop
+v <- c("Hello","loop")
+cnt <- 2
+repeat {
+   print(v)
+   cnt <- cnt+1
+   if(cnt > 5) {
+      break
+   }
+}
 
+
+# While Loop
+v <- c("Hello","while loop")
+cnt <- 2
+while (cnt < 7) {
+   print(v)
+   cnt = cnt + 1
+}
+
+
+# For Loop
+v <- LETTERS[1:4]
+for ( i in v) {
+   print(i)
+}
+
+
+# Break Statement
+v <- c("Hello","loop")
+cnt <- 2
+repeat {
+   print(v)
+   cnt <- cnt + 1	
+   if(cnt > 5) {
+      break
+   }
+}
+
+
+# Next Statement
+v <- LETTERS[1:6]
+for ( i in v) {
+   if (i == "D") {
+      next
+   }
+   print(i)
+}
 ```
 
+---
 
 
 
+## 6. Functions
+
+[most widely used R functions](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+
+``` R
+# Built-in Function
+seq()
+mean() # ...
+
+
+# User-defined Function
+new.function <- function(a) {  # Create a function
+   for(i in 1:a) {
+      b <- i^2
+      print(b)
+   }
+}
+new.function(6)  # Call the function
+```
+
+---
 
 
 
+## 7. Strings
+
+``` R
+# String Construction Example
+a <- 'String'
+b <- "String"
 
 
-
-
-
-
-
-
-
-
-
-
+# String Manipulation
+paste(a,b,c, sep = "_", collapse = "")
+```
 
 
 
