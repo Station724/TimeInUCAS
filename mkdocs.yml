@@ -5,10 +5,19 @@ site_name: TimeInUCAS
 # Nav Set
 nav:
   - Home: index.md
+  - Daily: Daily.md
   - Learning:
     - Git: ./Learning/Git.md
     - MkDocs: ./Learning/MkDocs.md
-    - R: ./Learning/R.md
+    - R: 
+      - QuickGuide: ./Learning/R_Quick_Guide.md
+      - R In Action: ./Learning/R_In_Action.md
+    - QIIME2: ./Learning/QIIME2.md
+    - Other: ./Learning/Other.md
+  - Reading:
+    - Profiles: ./Reading/Profiles.md
+    - Articles: ./Reading/Articles.md
+  
 
 
 # Theme
@@ -38,6 +47,7 @@ theme:
     code: Roboto Mono
   features:
     - navigation.footer
+    - content.code.copy
 
 
 #Extra
@@ -57,7 +67,6 @@ plugins:
   - git-authors
 
 
-
 # Toc Extension
 markdown_extensions:
   - toc:
@@ -66,9 +75,21 @@ markdown_extensions:
       #baselevel: 2   # Base level for headers 
 
 
-#Copyright
+# Copyright
 copyright: Copyright &copy; 2024 QingyunCai
 
-#Git Repository
+
+# Git Repository
 repo_url: https://github.com/Station724/TimeInUCAS
 repo_name: Station724/TimeInUCAS
+
+
+# Highlight
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
