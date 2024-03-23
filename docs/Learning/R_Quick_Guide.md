@@ -1,6 +1,6 @@
-# R - Quick Guide [link](https://www.tutorialspoint.com/r/r_quick_guide.htm)
+# R - Quick Guide
 
-
+Link: [tutorials point](https://www.tutorialspoint.com/r/r_quick_guide.htm)
 
 ## 1. Data Type
 
@@ -245,7 +245,6 @@ b <- "String"
 # String Manipulation
 paste(a,b,c, sep = "_", collapse = "")
 ```
-
 
 
 
