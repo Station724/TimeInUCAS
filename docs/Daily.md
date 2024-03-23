@@ -6,13 +6,29 @@
 
 ---
 
-### Week12
+### **Week12**
 
-#### Monday 3.18
+- Saturday 3.23
 
--  [PMC3156573](./Reading/Articles/PMC3156573.md) (until ?)
--  [PMC7015180](./Reading/Articles/PMC7015180.md) (until ?)
+    > Start [QIIME 2](./Learning/QIIME2.md) 
+    >
+    > Start [R In Action](./Learning/R_In_Action.md) 
 
-#### Tuesday 3.19
+- Tuesday 3.19
 
-- 
+    > Update [PMC7015180](./Reading/Articles/PMC7015180.md)
+    >
+    > Start [QIIME 2](./Learning/QIIME2.md) 
+
+- Monday 3.18
+
+    > Start [PMC3156573](./Reading/Articles/PMC3156573.md)
+    >
+    > Start [PMC7015180](./Reading/Articles/PMC7015180.md)
+
+
+
+
+
+
+

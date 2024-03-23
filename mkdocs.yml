@@ -10,12 +10,13 @@ nav:
     - Git: ./Learning/Git.md
     - MkDocs: ./Learning/MkDocs.md
     - R: 
-      - QuickGuide: ./Learning/R_QuickGuide.md
+      - QuickGuide: ./Learning/R_Quick_Guide.md
       - R In Action: ./Learning/R_In_Action.md
     - QIIME2: ./Learning/QIIME2.md
     - Other: ./Learning/Other.md
   - Reading:
     - Profiles: ./Reading/Profiles.md
+    - Articles: ./Reading/Articles.md
   
 
 
