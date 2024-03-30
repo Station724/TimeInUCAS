@@ -15,9 +15,9 @@ Bolyen E, Rideout JR, Dillon MR, et al. **Reproducible, interactive, scalable an
 
 > [published correction appears in Nat Biotechnol. 2019 Sep;37(9):1091]
 >
-> Link: [Nature Biotechnology](https://www.nature.com/articles/s41587-019%200209-9) | [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7015180/)
+> Link: [Nature Biotechnology](https://www.nature.com/articles/s41587-019%200209-9) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31341288/) | [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7015180/) | [Web of Science](https://www.webofscience.com/wos/alldb/full-record/WOS:000482876100012)
 >
-> My Reading: [PMC7015180](../Articles/PMC7015180.md)
+> My Reading: [PM31341288](../Articles/PM31341288.md)
 
 
 
@@ -25,7 +25,7 @@ Bolyen E, Rideout JR, Dillon MR, et al. **Reproducible, interactive, scalable an
 
 Caporaso JG, Kuczynski J, Stombaugh J, et al. **QIIME allows analysis of high-throughput community sequencing data.** *Nat Methods*. 2010;7(5):335-336. doi:10.1038/nmeth.f.303
 
-> Link: [Nature Methods](https://www.nature.com/articles/nmeth.f.303) |  [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156573/) 
+> Link: Link: [Nature Methods](https://www.nature.com/articles/nmeth.f.303) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/20383131/) | [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156573/) | [Web of Science](https://www.webofscience.com/wos/alldb/full-record/WOS:000277175100003)
 >
-> My Reading: [PMC3156573](../Articles/PMC3156573.md)
+> My Reading: [PM20383131](../Articles/PM20383131.md)
 

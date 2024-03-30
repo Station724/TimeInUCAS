@@ -6,27 +6,41 @@
 
 ---
 
+### **Week13**
+
+- Saturday 3.30
+
+    > [Nature-V627-I8005](./Reading/Journals/NatureV627I8005.md)
+
+- Wednesday 3.27
+
+    > [PM2231712](./Reading/Articles/PM2231712.md)
+    >
+    > [PM2983426](./Reading/Articles/PM2983426.md)
+
+---
+
 ### **Week12**
 
 - Saturday 3.23
 
-    > Start [QIIME 2](./Learning/QIIME2.md) 
+    > [QIIME 2](./Learning/QIIME2.md) 
     >
-    > Start [R In Action](./Learning/R_In_Action.md) 
+    > [R In Action](./Learning/Archive/R_in_Action.md) 
 
 - Tuesday 3.19
 
-    > Update [PMC7015180](./Reading/Articles/PMC7015180.md)
+    > [PM31341288](./Reading/Articles/PM31341288.md) (Update)
     >
-    > Start [QIIME 2](./Learning/QIIME2.md) 
+    > [QIIME 2](./Learning/QIIME2.md) 
 
 - Monday 3.18
 
-    > Start [PMC3156573](./Reading/Articles/PMC3156573.md)
+    > [PM20383131](./Reading/Articles/PM20383131.md)
     >
-    > Start [PMC7015180](./Reading/Articles/PMC7015180.md)
+    > [PM31341288](./Reading/Articles/PM31341288.md)
 
-
+---
 
 
 

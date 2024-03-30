@@ -9,16 +9,19 @@ nav:
   - Learning:
     - Git: ./Learning/Git.md
     - MkDocs: ./Learning/MkDocs.md
-    - R: 
-      - QuickGuide: ./Learning/R_Quick_Guide.md
-      - R In Action: ./Learning/R_In_Action.md
+    - R: ./Learning/R.md
     - QIIME2: ./Learning/QIIME2.md
     - Other: ./Learning/Other.md
   - Reading:
-    - Profiles: ./Reading/Profiles.md
+    - Journals: ./Reading/Journals.md
     - Articles: ./Reading/Articles.md
-  
+    - Profiles: ./Reading/Profiles.md
 
+not_in_nav: |  # what does "|" mean here? want to know.
+  /Reading/Articles/
+  /Reading/Profiles/
+  /Reading/Journals/
+  /Learning/Archive/
 
 # Theme
 theme:
